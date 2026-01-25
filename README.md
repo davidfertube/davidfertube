@@ -6,6 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-davidfernandez.dev-0d1117?style=for-the-badge&labelColor=0d1117)](https://davidfernandez.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117)](https://linkedin.com/in/davidfertube)
+[![X](https://img.shields.io/badge/X-Follow-0d1117?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117)](https://x.com/davidfertube)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Demos-0d1117?style=for-the-badge&labelColor=0d1117)](https://huggingface.co/davidfertube)
 
 </div>
@@ -26,13 +27,22 @@ Focus Areas:
 
 ---
 
+## Ventures
+
+| Project | Description |
+|---------|-------------|
+| **Steel Agents** | Enterprise knowledge platform for steel manufacturing—integrating metallurgical data, process parameters, and quality metrics |
+| **Prediction Agents** | Automated CMMC 2.0 compliance assessment platform for defense contractors—mapping controls to NIST 800-171 |
+
+---
+
 ## Production Projects
 
 <table>
 <tr>
 <td width="33%" align="center">
 
-**Predictive Maintenance**
+**Predictive Agent**
 
 *LSTM-Based RUL Prediction*
 
@@ -43,7 +53,7 @@ RUL prediction extending turbine life 15-20%
 </td>
 <td width="33%" align="center">
 
-**Policy Guard**
+**Compliance Agent**
 
 *NERC CIP Compliance Automation*
 
@@ -54,7 +64,7 @@ Compliance automation reducing audit prep 60%
 </td>
 <td width="33%" align="center">
 
-**IoT Anomaly Agent**
+**Anomaly Agent**
 
 *Real-Time Turbine Monitoring*
 
@@ -73,9 +83,9 @@ Anomaly detection with auto root cause analysis
 | Project | Tagline | Description | |
 |---------|---------|-------------|--|
 | **Enterprise RAG** | Agentic RAG for Industrial Documents | RAG pipeline with semantic chunking and multi-agent workflows | [![View Code](https://img.shields.io/badge/View_Code-gray?style=flat-square)](https://github.com/davidfertube/chat-with-assets-rag) |
-| **RL Supply Chain** | PPO Inventory Optimization | RL-based optimization reducing stockouts 25% | [![View Code](https://img.shields.io/badge/View_Code-gray?style=flat-square)](https://github.com/davidfertube/rl-supply-chain) |
 | **Vision AI Safety Inspector** | VLM for HSE Compliance | Vision AI using Qwen2-VL for safety scene understanding | [![View Code](https://img.shields.io/badge/View_Code-gray?style=flat-square)](https://github.com/davidfertube/geo-insight-hse) |
-| **LAS Parser** | Well Log Data ETL | ETL pipeline 10x faster than industry standard | [![View Code](https://img.shields.io/badge/View_Code-gray?style=flat-square)](https://github.com/davidfertube/las-parser) |
+| **Data Parser - Energy** | Well Log Data ETL | ETL pipeline 10x faster than industry standard | [![View Code](https://img.shields.io/badge/View_Code-gray?style=flat-square)](https://github.com/davidfertube/las-parser) |
+| **RL Supply Chain** | PPO Inventory Optimization | RL-based optimization reducing stockouts 25% | [![View Code](https://img.shields.io/badge/View_Code-gray?style=flat-square)](https://github.com/davidfertube/rl-supply-chain) |
 
 ---
 
