@@ -32,7 +32,7 @@ Focus Areas:
 | Project | Description |
 |---------|-------------|
 | **Steel Agents** | Enterprise knowledge platform for steel manufacturing—integrating metallurgical data, process parameters, and quality metrics |
-| **Prediction Agents** | Automated CMMC 2.0 compliance assessment platform for defense contractors—mapping controls to NIST 800-171 |
+| **Defense Agents** | Automated CMMC 2.0 compliance assessment platform for defense contractors—mapping controls to NIST 800-171 |
 
 ---
 
