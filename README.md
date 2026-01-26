@@ -48,7 +48,7 @@ Focus Areas:
 
 RUL prediction extending turbine life 15-20%
 
-[![Run Demo](https://img.shields.io/badge/Run_Demo-blue?style=for-the-badge)](https://huggingface.co/spaces/davidfertube/predictive-maintenance)
+[![Run Demo](https://img.shields.io/badge/Run_Demo-blue?style=for-the-badge)](https://huggingface.co/spaces/davidfertube/predictive-agent)
 
 </td>
 <td width="33%" align="center">
@@ -59,7 +59,7 @@ RUL prediction extending turbine life 15-20%
 
 Compliance automation reducing audit prep 60%
 
-[![Run Demo](https://img.shields.io/badge/Run_Demo-blue?style=for-the-badge)](https://huggingface.co/spaces/davidfertube/policy-guard)
+[![Run Demo](https://img.shields.io/badge/Run_Demo-blue?style=for-the-badge)](https://huggingface.co/spaces/davidfertube/compliance-agent)
 
 </td>
 <td width="33%" align="center">
@@ -70,7 +70,7 @@ Compliance automation reducing audit prep 60%
 
 Anomaly detection with auto root cause analysis
 
-[![Run Demo](https://img.shields.io/badge/Run_Demo-blue?style=for-the-badge)](https://huggingface.co/spaces/davidfertube/iot-anomaly-agent)
+[![Run Demo](https://img.shields.io/badge/Run_Demo-blue?style=for-the-badge)](https://huggingface.co/spaces/davidfertube/anomaly-agent)
 
 </td>
 </tr>
