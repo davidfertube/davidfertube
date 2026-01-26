@@ -29,8 +29,8 @@ Focus Areas:
 
 ## Ventures
 
-| Project | Description | |
-|---------|-------------|--|
+| Business | Description | |
+|----------|-------------|--|
 | **Steel Agents** | AI-powered RAG system for engineering teams—instant access to ASTM standards and steel specifications with cited answers in <2s | [![Run Demo](https://img.shields.io/badge/Run_Demo-blue?style=flat-square)](https://red-flower-0152ee60f.1.azurestaticapps.net/) |
 | **Renewal Agents** | AI retention platform for Texas energy retailers—predicts churn risk and automates personalized renewal offers before rate shock | [![Run Demo](https://img.shields.io/badge/Run_Demo-blue?style=flat-square)](https://renewal-agents-649096848847.us-central1.run.app/) |
 
