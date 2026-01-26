@@ -11,11 +11,7 @@
 [![X](https://img.shields.io/badge/X-Follow-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/davidfertube)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Demos-000?style=for-the-badge&logo=huggingface&logoColor=FFD21E)](https://huggingface.co/davidfertube)
 
-</div>
-
 ---
-
-<div align="center">
 
 ### `> Building Production AI Systems for Energy & Industrial Operations_`
 
@@ -39,107 +35,26 @@ class AIEngineer:
 
 ---
 
-<div align="center">
+<h2 align="center">Ventures</h2>
 
-## Ventures
-
-</div>
-
-<table width="100%">
-<tr>
-<td width="18%"><strong>Business</strong></td>
-<td width="67%"><strong>Description</strong></td>
-<td width="15%" align="center"><strong>Action</strong></td>
-</tr>
-<tr>
-<td><strong>Steel Agents</strong></td>
-<td>AI-powered RAG for engineering teams—instant access to ASTM standards and steel specifications with cited answers in &lt;2s</td>
-<td align="center"><a href="https://red-flower-0152ee60f.1.azurestaticapps.net/"><img src="https://img.shields.io/badge/Sign_Up-00C853?style=for-the-badge&logo=rocket&logoColor=white" alt="Sign Up"/></a></td>
-</tr>
-<tr>
-<td><strong>Renewal Agents</strong></td>
-<td>AI retention platform for Texas energy retailers—predicts churn risk and automates personalized renewal offers before rate shock</td>
-<td align="center"><a href="https://renewal-agents-649096848847.us-central1.run.app/"><img src="https://img.shields.io/badge/Sign_Up-00C853?style=for-the-badge&logo=rocket&logoColor=white" alt="Sign Up"/></a></td>
-</tr>
-</table>
+| Business | Description | Action |
+|:---------|:------------|:------:|
+| **Steel Agents** | AI-powered RAG for engineering teams—instant access to ASTM standards and steel specifications with cited answers in <2s | [![Sign Up](https://img.shields.io/badge/Sign_Up-00C853?style=for-the-badge&logo=rocket&logoColor=white)](https://red-flower-0152ee60f.1.azurestaticapps.net/) |
+| **Renewal Agents** | AI retention platform for Texas energy retailers—predicts churn risk and automates personalized renewal offers before rate shock | [![Sign Up](https://img.shields.io/badge/Sign_Up-00C853?style=for-the-badge&logo=rocket&logoColor=white)](https://renewal-agents-649096848847.us-central1.run.app/) |
 
 ---
 
-<div align="center">
+<h2 align="center">Production Projects</h2>
 
-## Production Projects
-
-</div>
-
-<table width="100%">
-<tr>
-<td width="33%" align="center" valign="top">
-<br/>
-
-### Predictive Agent
-
-<br/>
-
-`LSTM-Based RUL Prediction`
-
-<br/>
-
-Extending turbine life 15-20% using neural networks trained on NASA C-MAPSS and GE 7FA turbine patterns
-
-<br/><br/>
-
-[![Try It](https://img.shields.io/badge/▶_TRY_IT-2962FF?style=for-the-badge&logoColor=white)](https://huggingface.co/spaces/davidfertube/predictive-agent)
-
-<br/>
-</td>
-<td width="33%" align="center" valign="top">
-<br/>
-
-### Compliance Agent
-
-<br/>
-
-`NERC CIP Automation`
-
-<br/>
-
-Reducing audit prep 60% through automated procedure validation against CIP-006-6 requirements
-
-<br/><br/>
-
-[![Try It](https://img.shields.io/badge/▶_TRY_IT-2962FF?style=for-the-badge&logoColor=white)](https://huggingface.co/spaces/davidfertube/compliance-agent)
-
-<br/>
-</td>
-<td width="33%" align="center" valign="top">
-<br/>
-
-### Anomaly Agent
-
-<br/>
-
-`Real-Time Monitoring`
-
-<br/>
-
-Auto root cause analysis using Isolation Forest for vibration, temperature, and pressure data
-
-<br/><br/>
-
-[![Try It](https://img.shields.io/badge/▶_TRY_IT-2962FF?style=for-the-badge&logoColor=white)](https://huggingface.co/spaces/davidfertube/anomaly-agent)
-
-<br/>
-</td>
-</tr>
-</table>
+| Predictive Agent | Compliance Agent | Anomaly Agent |
+|:----------------:|:----------------:|:-------------:|
+| **LSTM-Based RUL Prediction** | **NERC CIP Automation** | **Real-Time Monitoring** |
+| Extending turbine life 15-20% using neural networks trained on NASA C-MAPSS and GE 7FA turbine patterns | Reducing audit prep 60% through automated procedure validation against CIP-006-6 requirements | Auto root cause analysis using Isolation Forest for vibration, temperature, and pressure data |
+| [![Try It](https://img.shields.io/badge/▶_TRY_IT-2962FF?style=for-the-badge)](https://huggingface.co/spaces/davidfertube/predictive-agent) | [![Try It](https://img.shields.io/badge/▶_TRY_IT-2962FF?style=for-the-badge)](https://huggingface.co/spaces/davidfertube/compliance-agent) | [![Try It](https://img.shields.io/badge/▶_TRY_IT-2962FF?style=for-the-badge)](https://huggingface.co/spaces/davidfertube/anomaly-agent) |
 
 ---
 
-<div align="center">
-
-## Experiments
-
-</div>
+<h2 align="center">Experiments</h2>
 
 ```
 experiments/
@@ -149,41 +64,16 @@ experiments/
 └── rl-supply-chain/     # PPO inventory optimization (-25% stockouts)
 ```
 
-<table width="100%">
-<tr>
-<td width="30%"><strong>Experiment</strong></td>
-<td width="55%"><strong>Stack</strong></td>
-<td width="15%" align="center"><strong>Code</strong></td>
-</tr>
-<tr>
-<td><strong>Enterprise RAG</strong></td>
-<td>LangGraph • Pinecone • FastAPI</td>
-<td align="center"><a href="https://github.com/davidfertube/chat-with-assets-rag"><img src="https://img.shields.io/badge/↗_View-1C1C1C?style=flat-square" alt="Code"/></a></td>
-</tr>
-<tr>
-<td><strong>Vision AI Safety</strong></td>
-<td>Qwen2-VL • Transformers • Gradio</td>
-<td align="center"><a href="https://github.com/davidfertube/geo-insight-hse"><img src="https://img.shields.io/badge/↗_View-1C1C1C?style=flat-square" alt="Code"/></a></td>
-</tr>
-<tr>
-<td><strong>Data Parser Energy</strong></td>
-<td>LASIO • Pandas • NumPy</td>
-<td align="center"><a href="https://github.com/davidfertube/las-parser"><img src="https://img.shields.io/badge/↗_View-1C1C1C?style=flat-square" alt="Code"/></a></td>
-</tr>
-<tr>
-<td><strong>RL Supply Chain</strong></td>
-<td>Stable-Baselines3 • PPO • Gymnasium</td>
-<td align="center"><a href="https://github.com/davidfertube/rl-supply-chain"><img src="https://img.shields.io/badge/↗_View-1C1C1C?style=flat-square" alt="Code"/></a></td>
-</tr>
-</table>
+| Experiment | Stack | Code |
+|:-----------|:------|:----:|
+| **Enterprise RAG** | LangGraph • Pinecone • FastAPI | [![Code](https://img.shields.io/badge/↗_View-1C1C1C?style=flat-square)](https://github.com/davidfertube/chat-with-assets-rag) |
+| **Vision AI Safety** | Qwen2-VL • Transformers • Gradio | [![Code](https://img.shields.io/badge/↗_View-1C1C1C?style=flat-square)](https://github.com/davidfertube/geo-insight-hse) |
+| **Data Parser Energy** | LASIO • Pandas • NumPy | [![Code](https://img.shields.io/badge/↗_View-1C1C1C?style=flat-square)](https://github.com/davidfertube/las-parser) |
+| **RL Supply Chain** | Stable-Baselines3 • PPO • Gymnasium | [![Code](https://img.shields.io/badge/↗_View-1C1C1C?style=flat-square)](https://github.com/davidfertube/rl-supply-chain) |
 
 ---
 
-<div align="center">
-
-## Open Source Contributions
-
-</div>
+<h2 align="center">Open Source Contributions</h2>
 
 ```diff
 + LangGraph    → Refactored FunctionMessage patterns, Enhanced fine-tuning docs
@@ -202,11 +92,7 @@ experiments/
 
 ---
 
-<div align="center">
-
-## Technical Stack
-
-</div>
+<h2 align="center">Technical Stack</h2>
 
 ```
 ┌────────────────────────────────────────────────────────────────────────────────────────────────────┐
@@ -230,34 +116,11 @@ experiments/
 
 ---
 
-<div align="center">
+<h2 align="center">Background</h2>
 
-## Background
-
-</div>
-
-<table width="100%">
-<tr>
-<td width="50%" align="center" valign="top">
-<br/>
-
-### M.S. Artificial Intelligence
-
-University of Colorado Boulder (2027)
-
-<br/>
-</td>
-<td width="50%" align="center" valign="top">
-<br/>
-
-### Experience
-
-5+ years production software • 4+ years AI systems
-
-<br/>
-</td>
-</tr>
-</table>
+| M.S. Artificial Intelligence | Experience |
+|:----------------------------:|:----------:|
+| University of Colorado Boulder (2027) | 5+ years production software • 4+ years AI systems |
 
 <div align="center">
 
