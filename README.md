@@ -1,38 +1,63 @@
 <div align="center">
 
-# David Fernandez
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=David+Fernandez;AI+Engineer;Building+Agentic+Systems" alt="Typing SVG" />
 
-**AI Engineer**
+```
+01001000 01100101 01101100 01101100 01101111 00101100 00100000 01010111 01101111 01110010 01101100 01100100
+```
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-davidfernandez.dev-0d1117?style=for-the-badge&labelColor=0d1117)](https://davidfernandez.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117)](https://linkedin.com/in/davidfertube)
-[![X](https://img.shields.io/badge/X-Follow-0d1117?style=for-the-badge&labelColor=0d1117)](https://x.com/davidfertube)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-Demos-0d1117?style=for-the-badge&labelColor=0d1117)](https://huggingface.co/davidfertube)
+[![Portfolio](https://img.shields.io/badge/Portfolio-davidfernandez.dev-000?style=for-the-badge&logo=safari&logoColor=white)](https://davidfernandez.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/davidfertube)
+[![X](https://img.shields.io/badge/X-Follow-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/davidfertube)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-Demos-000?style=for-the-badge&logo=huggingface&logoColor=FFD21E)](https://huggingface.co/davidfertube)
 
 </div>
 
 ---
 
-### Building Production AI Systems for Energy & Industrial Operations
+<div align="center">
 
-Founding Engineer scaling AI from prototype to production. I architect agentic RAG systems, predictive ML pipelines, and compliance automation that run in enterprise environments.
+### `> Building Production AI Systems for Energy & Industrial Operations_`
 
-```
-Focus Areas:
-├── Agentic RAG & Multi-Agent Orchestration
-├── Predictive Maintenance & Anomaly Detection
-├── Regulatory Compliance Automation (NERC CIP)
-└── Cloud-Native ML (Azure AI Foundry, GCP Vertex AI)
+</div>
+
+Founding Engineer scaling AI from prototype to production. I architect **agentic RAG systems**, **predictive ML pipelines**, and **compliance automation** that run in enterprise environments.
+
+```python
+class AIEngineer:
+    def __init__(self):
+        self.focus = [
+            "Agentic RAG & Multi-Agent Orchestration",
+            "Predictive Maintenance & Anomaly Detection",
+            "Regulatory Compliance Automation (NERC CIP)",
+            "Cloud-Native ML (Azure AI Foundry, GCP Vertex AI)"
+        ]
+
+    def deploy(self, agent) -> Production:
+        return agent.scale_to_enterprise()
 ```
 
 ---
 
 ## Ventures
 
-| Business | Description | |
-|----------|-------------|--|
-| **Steel Agents** | AI-powered RAG system for engineering teams—instant access to ASTM standards and steel specifications with cited answers in <2s | [![Run Demo](https://img.shields.io/badge/Run_Demo-blue?style=flat-square)](https://red-flower-0152ee60f.1.azurestaticapps.net/) |
-| **Renewal Agents** | AI retention platform for Texas energy retailers—predicts churn risk and automates personalized renewal offers before rate shock | [![Run Demo](https://img.shields.io/badge/Run_Demo-blue?style=flat-square)](https://renewal-agents-649096848847.us-central1.run.app/) |
+<table>
+<tr>
+<td width="20%"><strong>Business</strong></td>
+<td width="65%"><strong>Description</strong></td>
+<td width="15%" align="center"><strong>Action</strong></td>
+</tr>
+<tr>
+<td><strong>Steel Agents</strong></td>
+<td>AI-powered RAG for engineering teams—instant access to ASTM standards and steel specifications with cited answers in &lt;2s</td>
+<td align="center"><a href="https://red-flower-0152ee60f.1.azurestaticapps.net/"><img src="https://img.shields.io/badge/Sign_Up-00C853?style=for-the-badge&logo=rocket&logoColor=white" alt="Sign Up"/></a></td>
+</tr>
+<tr>
+<td><strong>Renewal Agents</strong></td>
+<td>AI retention platform for Texas energy retailers—predicts churn risk and automates personalized renewal offers before rate shock</td>
+<td align="center"><a href="https://renewal-agents-649096848847.us-central1.run.app/"><img src="https://img.shields.io/badge/Sign_Up-00C853?style=for-the-badge&logo=rocket&logoColor=white" alt="Sign Up"/></a></td>
+</tr>
+</table>
 
 ---
 
@@ -44,33 +69,33 @@ Focus Areas:
 
 **Predictive Agent**
 
-*LSTM-Based RUL Prediction*
+`LSTM-Based RUL Prediction`
 
-RUL prediction extending turbine life 15-20%
+Extending turbine life 15-20%
 
-[![Run Demo](https://img.shields.io/badge/Run_Demo-blue?style=for-the-badge)](https://huggingface.co/spaces/davidfertube/predictive-agent)
+[![Try It](https://img.shields.io/badge/▶_Try_It-2962FF?style=for-the-badge&logoColor=white)](https://huggingface.co/spaces/davidfertube/predictive-agent)
 
 </td>
 <td width="33%" align="center">
 
 **Compliance Agent**
 
-*NERC CIP Compliance Automation*
+`NERC CIP Automation`
 
-Compliance automation reducing audit prep 60%
+Reducing audit prep 60%
 
-[![Run Demo](https://img.shields.io/badge/Run_Demo-blue?style=for-the-badge)](https://huggingface.co/spaces/davidfertube/compliance-agent)
+[![Try It](https://img.shields.io/badge/▶_Try_It-2962FF?style=for-the-badge&logoColor=white)](https://huggingface.co/spaces/davidfertube/compliance-agent)
 
 </td>
 <td width="33%" align="center">
 
 **Anomaly Agent**
 
-*Real-Time Turbine Monitoring*
+`Real-Time Monitoring`
 
-Anomaly detection with auto root cause analysis
+Auto root cause analysis
 
-[![Run Demo](https://img.shields.io/badge/Run_Demo-blue?style=for-the-badge)](https://huggingface.co/spaces/davidfertube/anomaly-agent)
+[![Try It](https://img.shields.io/badge/▶_Try_It-2962FF?style=for-the-badge&logoColor=white)](https://huggingface.co/spaces/davidfertube/anomaly-agent)
 
 </td>
 </tr>
@@ -80,57 +105,86 @@ Anomaly detection with auto root cause analysis
 
 ## Experiments
 
-| Project | Tagline | Description | |
-|---------|---------|-------------|--|
-| **Enterprise RAG** | Agentic RAG for Industrial Documents | RAG pipeline with semantic chunking and multi-agent workflows | [![View Code](https://img.shields.io/badge/View_Code-gray?style=flat-square)](https://github.com/davidfertube/chat-with-assets-rag) |
-| **Vision AI Safety Inspector** | VLM for HSE Compliance | Vision AI using Qwen2-VL for safety scene understanding | [![View Code](https://img.shields.io/badge/View_Code-gray?style=flat-square)](https://github.com/davidfertube/geo-insight-hse) |
-| **Data Parser - Energy** | Well Log Data ETL | ETL pipeline 10x faster than industry standard | [![View Code](https://img.shields.io/badge/View_Code-gray?style=flat-square)](https://github.com/davidfertube/las-parser) |
-| **RL Supply Chain** | PPO Inventory Optimization | RL-based optimization reducing stockouts 25% | [![View Code](https://img.shields.io/badge/View_Code-gray?style=flat-square)](https://github.com/davidfertube/rl-supply-chain) |
+```
+experiments/
+├── enterprise-rag/      # Agentic RAG for industrial documents
+├── vision-ai-safety/    # VLM for HSE compliance (Qwen2-VL)
+├── data-parser-energy/  # Well log ETL (10x faster)
+└── rl-supply-chain/     # PPO inventory optimization (-25% stockouts)
+```
+
+| Experiment | Stack | |
+|------------|-------|--|
+| **Enterprise RAG** | LangGraph • Pinecone • FastAPI | [![Code](https://img.shields.io/badge/↗_Code-1C1C1C?style=flat-square)](https://github.com/davidfertube/chat-with-assets-rag) |
+| **Vision AI Safety** | Qwen2-VL • Transformers • Gradio | [![Code](https://img.shields.io/badge/↗_Code-1C1C1C?style=flat-square)](https://github.com/davidfertube/geo-insight-hse) |
+| **Data Parser Energy** | LASIO • Pandas • NumPy | [![Code](https://img.shields.io/badge/↗_Code-1C1C1C?style=flat-square)](https://github.com/davidfertube/las-parser) |
+| **RL Supply Chain** | Stable-Baselines3 • PPO • Gymnasium | [![Code](https://img.shields.io/badge/↗_Code-1C1C1C?style=flat-square)](https://github.com/davidfertube/rl-supply-chain) |
 
 ---
 
 ## Open Source Contributions
 
-Contributor to production AI frameworks:
+```diff
++ LangGraph    → Refactored FunctionMessage patterns, Enhanced fine-tuning docs
++ AutoGen      → Fixed Azure AI Client streaming stability
++ CrewAI       → URL validation for Azure Gateways
++ Transformers → Documentation improvements
+```
 
-| Framework | Contribution | Impact |
-|-----------|--------------|--------|
-| **LangGraph** | Refactored FunctionMessage patterns, Enhanced fine-tuning docs | Improved developer experience for agent state management |
-| **Microsoft AutoGen** | Fixed Azure AI Client streaming stability | Resolved production reliability issues |
-| **CrewAI** | URL validation for Azure Gateways | Enabled enterprise Azure deployments |
-| **HuggingFace Transformers** | Documentation improvements | - |
+<div align="center">
+
+[![LangGraph](https://img.shields.io/badge/LangGraph-Contributor-00C853?style=flat-square&logo=github)](https://github.com/langchain-ai/langgraph)
+[![AutoGen](https://img.shields.io/badge/AutoGen-Contributor-00C853?style=flat-square&logo=github)](https://github.com/microsoft/autogen)
+[![CrewAI](https://img.shields.io/badge/CrewAI-Contributor-00C853?style=flat-square&logo=github)](https://github.com/crewAIInc/crewAI)
+
+</div>
 
 ---
 
-## Technical Depth
+## Technical Stack
 
 ```
-AI/ML Engineering
-├── LLM Integration: OpenAI, Claude, Gemini, Mistral
-├── Agent Frameworks: LangGraph, LangChain, AutoGen, CrewAI, PydanticAI
-├── Vector Databases: Pinecone, ChromaDB, FAISS, Azure AI Search
-├── ML Ops: MLflow, W&B, Model Monitoring, A/B Testing
-└── Fine-Tuning: LoRA, QLoRA, Domain Adaptation
-
-Infrastructure
-├── Cloud: Azure AI Foundry, GCP Vertex AI, AWS SageMaker
-├── Containers: Docker, Kubernetes (AKS/GKE)
-├── IaC: Terraform, GitHub Actions
-└── Data: Spark, Kafka, Event-Driven Architectures
-
-Domain Expertise
-├── Power Generation: CCGT, Gas Turbines, SCADA/Historian
-├── Grid Operations: ERCOT, ISO Markets, Dispatch Optimization
-└── Regulatory: NERC CIP, EPA Emissions, Safety Compliance
+┌─────────────────────────────────────────────────────────────────────┐
+│  AI/ML                                                              │
+│  ├── LLMs: OpenAI, Claude, Gemini, Mistral                         │
+│  ├── Agents: LangGraph, AutoGen, CrewAI, PydanticAI                │
+│  ├── Vector DBs: Pinecone, ChromaDB, FAISS, Azure AI Search        │
+│  └── MLOps: MLflow, W&B, Model Monitoring                          │
+├─────────────────────────────────────────────────────────────────────┤
+│  Infrastructure                                                     │
+│  ├── Cloud: Azure AI Foundry, GCP Vertex AI, AWS SageMaker         │
+│  ├── Containers: Docker, Kubernetes (AKS/GKE)                      │
+│  └── IaC: Terraform, GitHub Actions                                │
+├─────────────────────────────────────────────────────────────────────┤
+│  Domain                                                             │
+│  ├── Power: CCGT, Gas Turbines, SCADA/Historian                    │
+│  ├── Grid: ERCOT, ISO Markets, Dispatch Optimization               │
+│  └── Regulatory: NERC CIP, EPA Emissions, Safety Compliance        │
+└─────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
 ## Background
 
-**M.S. Artificial Intelligence** - University of Colorado Boulder (2027)
+<table>
+<tr>
+<td width="50%">
 
-5+ years shipping production software. 4+ years building AI systems that run 24/7 in regulated industries.
+**M.S. Artificial Intelligence**
+
+University of Colorado Boulder (2027)
+
+</td>
+<td width="50%">
+
+**Experience**
+
+5+ years production software • 4+ years AI systems
+
+</td>
+</tr>
+</table>
 
 Started as a founding engineer scaling a startup from zero to production. Now I build AI that operators trust with million-dollar equipment decisions.
 
@@ -138,8 +192,12 @@ Started as a founding engineer scaling a startup from zero to production. Now I 
 
 <div align="center">
 
-[![LangGraph](https://img.shields.io/badge/LangGraph-Contributor-1C1C1C?style=flat-square)](https://github.com/langchain-ai/langgraph)
-[![AutoGen](https://img.shields.io/badge/AutoGen-Contributor-1C1C1C?style=flat-square)](https://github.com/microsoft/autogen)
-[![CrewAI](https://img.shields.io/badge/CrewAI-Contributor-1C1C1C?style=flat-square)](https://github.com/crewAIInc/crewAI)
+```
+        ╭──────────────────────────────────────╮
+        │  Agents. Production. Enterprise.     │
+        ╰──────────────────────────────────────╯
+```
+
+<img src="https://komarev.com/ghpvc/?username=davidfertube&style=flat-square&color=58A6FF" alt="Profile views"/>
 
 </div>
