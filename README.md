@@ -31,8 +31,8 @@ Focus Areas:
 
 | Project | Description | |
 |---------|-------------|--|
-| **Steel Agents** | Enterprise knowledge platform for steel manufacturing—integrating metallurgical data, process parameters, and quality metrics | [![Run Demo](https://img.shields.io/badge/Run_Demo-blue?style=flat-square)](https://red-flower-0152ee60f.1.azurestaticapps.net/) |
-| **Renewal Agents** | Automated CMMC 2.0 compliance assessment platform for defense contractors—mapping controls to NIST 800-171 | [![Run Demo](https://img.shields.io/badge/Run_Demo-blue?style=flat-square)](https://renewal-agents-649096848847.us-central1.run.app/) |
+| **Steel Agents** | AI-powered RAG system for engineering teams—instant access to ASTM standards and steel specifications with cited answers in <2s | [![Run Demo](https://img.shields.io/badge/Run_Demo-blue?style=flat-square)](https://red-flower-0152ee60f.1.azurestaticapps.net/) |
+| **Renewal Agents** | AI retention platform for Texas energy retailers—predicts churn risk and automates personalized renewal offers before rate shock | [![Run Demo](https://img.shields.io/badge/Run_Demo-blue?style=flat-square)](https://renewal-agents-649096848847.us-central1.run.app/) |
 
 ---
 
