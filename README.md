@@ -7,7 +7,7 @@
 ```
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-davidfernandez.dev-000?style=for-the-badge&logo=safari&logoColor=white)](https://davidfernandez.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/davidfertube)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-000?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/davidfertube)
 [![X](https://img.shields.io/badge/X-Follow-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/davidfertube)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Demos-000?style=for-the-badge&logo=huggingface&logoColor=FFD21E)](https://huggingface.co/davidfertube)
 
