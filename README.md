@@ -7,7 +7,7 @@
 ```
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-davidfernandez.dev-000?style=for-the-badge&logo=safari&logoColor=white)](https://davidfernandez.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-464646?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidfertube/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidfertube/)
 [![X](https://img.shields.io/badge/X-Follow-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/davidfertube)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Demos-000?style=for-the-badge&logo=huggingface&logoColor=FFD21E)](https://huggingface.co/davidfertube)
 
@@ -39,7 +39,7 @@ class AIEngineer:
 
 | Business | Description | Action |
 |:---------|:------------|:------:|
-| **Steel Agents** | AI-powered RAG for engineering teams—instant access to ASTM standards and steel specifications with cited answers in <2s | [![Sign Up](https://img.shields.io/badge/Sign_Up-00C853?style=for-the-badge&logo=rocket&logoColor=white)](https://red-flower-0152ee60f.1.azurestaticapps.net/) |
+| **Spec Agents** | AI-powered RAG for engineering teams—instant access to ASTM standards and steel specifications with cited answers in <2s | [![Sign Up](https://img.shields.io/badge/Sign_Up-00C853?style=for-the-badge&logo=rocket&logoColor=white)](https://steel-venture.vercel.app/) |
 | **Renewal Agents** | AI retention platform for Texas energy retailers—predicts churn risk and automates personalized renewal offers before rate shock | [![Sign Up](https://img.shields.io/badge/Sign_Up-00C853?style=for-the-badge&logo=rocket&logoColor=white)](https://renewal-agents-649096848847.us-central1.run.app/) |
 
 ---
