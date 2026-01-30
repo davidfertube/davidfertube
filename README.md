@@ -40,7 +40,6 @@ class AIEngineer:
 | Business | Description | Action |
 |:---------|:------------|:------:|
 | **Spec Agents** | AI-powered RAG for engineering teams—instant access to ASTM standards and steel specifications with cited answers in <2s | [![Sign Up](https://img.shields.io/badge/Sign_Up-00C853?style=for-the-badge&logo=rocket&logoColor=white)](https://steel-venture.vercel.app/) |
-| **Renewal Agents** | AI retention platform for Texas energy retailers—predicts churn risk and automates personalized renewal offers before rate shock | [![Sign Up](https://img.shields.io/badge/Sign_Up-00C853?style=for-the-badge&logo=rocket&logoColor=white)](https://renewal-agents-649096848847.us-central1.run.app/) |
 
 ---
 
