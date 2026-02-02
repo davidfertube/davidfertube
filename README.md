@@ -39,7 +39,7 @@ class AIEngineer:
 
 | Business | Description | Action |
 |:---------|:------------|:------:|
-| **Spec Agents** | AI-powered RAG for engineering teams—instant access to ASTM standards and steel specifications with cited answers in <2s | [![Sign Up](https://img.shields.io/badge/Sign_Up-00C853?style=for-the-badge&logo=rocket&logoColor=white)](https://steel-venture.vercel.app/) |
+| **Spec Agents** | AI-powered RAG for engineering teams—instant access to ASTM standards and steel specifications with cited answers in <2s | [![Sign Up](https://img.shields.io/badge/Sign_Up-00C853?style=for-the-badge&logo=rocket&logoColor=white)](https://spec-agents.vercel.app/) |
 
 ---
 
