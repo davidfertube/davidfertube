@@ -119,7 +119,7 @@ experiments/
 
 | M.S. Artificial Intelligence | Experience |
 |:----------------------------:|:----------:|
-| University of Colorado Boulder (2027) | 5+ years production software • 4+ years AI systems |
+| University of Colorado Boulder (2027) | 5+ years production software • 3+ years AI systems |
 
 <div align="center">
 
