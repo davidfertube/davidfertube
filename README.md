@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=David+Fernandez;AI+Engineer;Building+Agentic+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=David+Fernandez;AI+Engineer;Contributor+LangGraph+%26+Pydantic" alt="Typing SVG" />
 
 ```
 01001000 01100101 01101100 01101100 01101111 00101100 00100000 01010111 01101111 01110010 01101100 01100100
@@ -43,20 +43,13 @@ class AIEngineer:
 
 ---
 
-<h2 align="center">Production Projects</h2>
-
-| Predictive Agent | Compliance Agent | Anomaly Agent |
-|:----------------:|:----------------:|:-------------:|
-| **LSTM-Based RUL Prediction** | **NERC CIP Automation** | **Real-Time Monitoring** |
-| Extending turbine life 15-20% using neural networks trained on NASA C-MAPSS and GE 7FA turbine patterns | Reducing audit prep 60% through automated procedure validation against CIP-006-6 requirements | Auto root cause analysis using Isolation Forest for vibration, temperature, and pressure data |
-| [![Try It](https://img.shields.io/badge/▶_TRY_IT-2962FF?style=for-the-badge)](https://huggingface.co/spaces/davidfertube/predictive-agent) | [![Try It](https://img.shields.io/badge/▶_TRY_IT-2962FF?style=for-the-badge)](https://huggingface.co/spaces/davidfertube/compliance-agent) | [![Try It](https://img.shields.io/badge/▶_TRY_IT-2962FF?style=for-the-badge)](https://huggingface.co/spaces/davidfertube/anomaly-agent) |
-
----
-
 <h2 align="center">Experiments</h2>
 
 ```
 experiments/
+├── predictive-agent/    # LSTM-based RUL prediction for turbines
+├── compliance-agent/    # NERC CIP compliance automation
+├── anomaly-agent/       # Real-time turbine anomaly detection
 ├── enterprise-rag/      # Agentic RAG for industrial documents
 ├── vision-ai-safety/    # VLM for HSE compliance (Qwen2-VL)
 ├── data-parser-energy/  # Well log ETL (10x faster)
@@ -65,6 +58,9 @@ experiments/
 
 | Experiment | Stack | Code |
 |:-----------|:------|:----:|
+| **Predictive Agent** | LSTM • Scikit-Learn • Plotly • Docker | [![Code](https://img.shields.io/badge/↗_View-1C1C1C?style=flat-square)](https://github.com/davidfertube/predictive-maintenance) |
+| **Compliance Agent** | PydanticAI • DSPy • Mistral • FastAPI | [![Code](https://img.shields.io/badge/↗_View-1C1C1C?style=flat-square)](https://github.com/davidfertube/policy-guard) |
+| **Anomaly Agent** | Isolation Forest • Gradio • Time-Series | [![Code](https://img.shields.io/badge/↗_View-1C1C1C?style=flat-square)](https://github.com/davidfertube/iot-anomaly-agent) |
 | **Enterprise RAG** | LangGraph • Pinecone • FastAPI | [![Code](https://img.shields.io/badge/↗_View-1C1C1C?style=flat-square)](https://github.com/davidfertube/chat-with-assets-rag) |
 | **Vision AI Safety** | Qwen2-VL • Transformers • Gradio | [![Code](https://img.shields.io/badge/↗_View-1C1C1C?style=flat-square)](https://github.com/davidfertube/geo-insight-hse) |
 | **Data Parser Energy** | LASIO • Pandas • NumPy | [![Code](https://img.shields.io/badge/↗_View-1C1C1C?style=flat-square)](https://github.com/davidfertube/las-parser) |
@@ -76,6 +72,7 @@ experiments/
 
 ```diff
 + LangGraph    → Refactored FunctionMessage patterns, Enhanced fine-tuning docs
++ Pydantic     → Core library contributions
 + AutoGen      → Fixed Azure AI Client streaming stability
 + CrewAI       → URL validation for Azure Gateways
 + Transformers → Documentation improvements
@@ -84,6 +81,7 @@ experiments/
 <div align="center">
 
 [![LangGraph](https://img.shields.io/badge/LangGraph-Contributor-00C853?style=for-the-badge&logo=github)](https://github.com/langchain-ai/langgraph)
+[![Pydantic](https://img.shields.io/badge/Pydantic-Contributor-00C853?style=for-the-badge&logo=github)](https://github.com/pydantic/pydantic)
 [![AutoGen](https://img.shields.io/badge/AutoGen-Contributor-00C853?style=for-the-badge&logo=github)](https://github.com/microsoft/autogen)
 [![CrewAI](https://img.shields.io/badge/CrewAI-Contributor-00C853?style=for-the-badge&logo=github)](https://github.com/crewAIInc/crewAI)
 
