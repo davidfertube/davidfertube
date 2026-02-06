@@ -39,7 +39,8 @@ class AIEngineer:
 
 | Business | Description | Action |
 |:---------|:------------|:------:|
-| **Spec Agents** | AI-powered RAG for engineering teams—instant access to ASTM standards and steel specifications with cited answers in <2s | [![Sign Up](https://img.shields.io/badge/Sign_Up-00C853?style=for-the-badge&logo=rocket&logoColor=white)](https://spec-agents.vercel.app/) |
+| **SpecVault** | AI-powered RAG for engineering teams—instant access to ASTM standards and steel specifications with cited answers in <2s | [![Try It](https://img.shields.io/badge/Try_It-00C853?style=for-the-badge&logo=rocket&logoColor=white)](https://specvault.app/) |
+| **Altaviz** | Predictive maintenance MLOps platform monitoring 10 compressor units across 4 Texas stations with real-time fleet health dashboards | [![Try It](https://img.shields.io/badge/Try_It-00C853?style=for-the-badge&logo=rocket&logoColor=white)](https://altaviz.app/) |
 
 ---
 
@@ -50,10 +51,7 @@ experiments/
 ├── predictive-agent/    # LSTM-based RUL prediction for turbines
 ├── compliance-agent/    # NERC CIP compliance automation
 ├── anomaly-agent/       # Real-time turbine anomaly detection
-├── enterprise-rag/      # Agentic RAG for industrial documents
-├── vision-ai-safety/    # VLM for HSE compliance (Qwen2-VL)
-├── data-parser-energy/  # Well log ETL (10x faster)
-└── rl-supply-chain/     # PPO inventory optimization (-25% stockouts)
+└── vision-ai-safety/    # VLM for HSE compliance (Qwen2-VL)
 ```
 
 | Experiment | Stack | Code |
@@ -61,10 +59,7 @@ experiments/
 | **Predictive Agent** | LSTM • Scikit-Learn • Plotly • Docker | [![Code](https://img.shields.io/badge/↗_View-1C1C1C?style=flat-square)](https://github.com/davidfertube/predictive-maintenance) |
 | **Compliance Agent** | PydanticAI • DSPy • Mistral • FastAPI | [![Code](https://img.shields.io/badge/↗_View-1C1C1C?style=flat-square)](https://github.com/davidfertube/policy-guard) |
 | **Anomaly Agent** | Isolation Forest • Gradio • Time-Series | [![Code](https://img.shields.io/badge/↗_View-1C1C1C?style=flat-square)](https://github.com/davidfertube/iot-anomaly-agent) |
-| **Enterprise RAG** | LangGraph • Pinecone • FastAPI | [![Code](https://img.shields.io/badge/↗_View-1C1C1C?style=flat-square)](https://github.com/davidfertube/chat-with-assets-rag) |
 | **Vision AI Safety** | Qwen2-VL • Transformers • Gradio | [![Code](https://img.shields.io/badge/↗_View-1C1C1C?style=flat-square)](https://github.com/davidfertube/geo-insight-hse) |
-| **Data Parser Energy** | LASIO • Pandas • NumPy | [![Code](https://img.shields.io/badge/↗_View-1C1C1C?style=flat-square)](https://github.com/davidfertube/las-parser) |
-| **RL Supply Chain** | Stable-Baselines3 • PPO • Gymnasium | [![Code](https://img.shields.io/badge/↗_View-1C1C1C?style=flat-square)](https://github.com/davidfertube/rl-supply-chain) |
 
 ---
 
