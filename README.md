@@ -110,9 +110,20 @@ experiments/
 
 <h2 align="center">Background</h2>
 
-| M.S. Artificial Intelligence | Experience |
-|:----------------------------:|:----------:|
-| University of Colorado Boulder (2027) | 5+ years production software • 3+ years AI systems |
+<table width="100%">
+<thead>
+<tr>
+<th align="center" width="50%">M.S. Artificial Intelligence</th>
+<th align="center" width="50%">Experience</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">University of Colorado Boulder (2027)</td>
+<td align="center">5+ years production software • 3+ years AI systems</td>
+</tr>
+</tbody>
+</table>
 
 <div align="center">
 
