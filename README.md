@@ -36,10 +36,20 @@ class AIEngineer:
 
 <h2 align="center">Ventures</h2>
 
-| Business | Description | Action |
-|:---------|:------------|:------:|
-| **SpecVault** | AI-powered RAG for engineering teams—instant access to ASTM standards and steel specifications with cited answers in <2s | [![Try It](https://img.shields.io/badge/Try_It-00C853?style=for-the-badge&logo=rocket&logoColor=white)](https://specvault.app/) |
-| **Altaviz** | Predictive maintenance MLOps platform monitoring 10 compressor units across 4 Texas stations with real-time fleet health dashboards | [![Coming Soon](https://img.shields.io/badge/Coming_Soon-FFB300?style=for-the-badge&logo=clockify&logoColor=white)](https://altaviz.app/) |
+<table>
+<tr>
+<td align="center" width="50%">
+<h3><a href="https://specvault.app/">SpecVault</a></h3>
+<p>AI-powered RAG system for querying steel specifications with traceable citations. Query NACE MR0175, ASTM, and API standards instantly with answers engineers can cite in compliance reports.</p>
+<code>Next.js 16 • React 19 • TypeScript • Supabase pgvector • Voyage AI • Groq • Vercel</code>
+</td>
+<td align="center" width="50%">
+<h3><a href="https://altaviz.app/">Altaviz</a></h3>
+<p>Production-ready MLOps platform monitoring 10 compressor units across 4 Texas stations. PySpark ETL pipelines process 50k+ sensor readings through a Bronze/Silver/Gold medallion architecture into real-time fleet health dashboards.</p>
+<code>PySpark • Delta Lake • PostgreSQL • Streamlit • Plotly • Docker • Terraform</code>
+</td>
+</tr>
+</table>
 
 ---
 
