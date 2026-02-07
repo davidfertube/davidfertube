@@ -111,9 +111,8 @@ experiments/
 
 <table>
 <tr>
-<td align="center" width="33%"><h3>M.S. Artificial Intelligence</h3>University of Colorado Boulder<br>Expected 2027</td>
-<td align="center" width="34%"><h3>B.A. Marketing</h3>Lindenwood University<br>2017</td>
-<td align="center" width="33%"><h3>Experience</h3>5+ years production software<br>3+ years building AI systems</td>
+<td align="center" width="50%"><h3>M.S. Artificial Intelligence</h3>University of Colorado Boulder — Expected 2027</td>
+<td align="center" width="50%"><h3>Experience</h3>5+ years production software · 3+ years building AI systems</td>
 </tr>
 </table>
 
