@@ -58,7 +58,7 @@ experiments/
 | **Predictive Agent** | LSTM • Scikit-Learn • Plotly • Docker | [![Code](https://img.shields.io/badge/↗_View-1C1C1C?style=flat-square)](https://github.com/davidfertube/predictive-maintenance) |
 | **Compliance Agent** | PydanticAI • DSPy • Mistral • FastAPI | [![Code](https://img.shields.io/badge/↗_View-1C1C1C?style=flat-square)](https://github.com/davidfertube/policy-guard) |
 | **Anomaly Agent** | Isolation Forest • Gradio • Time-Series | [![Code](https://img.shields.io/badge/↗_View-1C1C1C?style=flat-square)](https://github.com/davidfertube/iot-anomaly-agent) |
-| **Vision AI Safety** | Qwen2-VL • Transformers • Gradio | [![Code](https://img.shields.io/badge/↗_View-1C1C1C?style=flat-square)](https://github.com/davidfertube/geo-insight-hse) |
+| **Vision Agent** | Qwen2-VL • Transformers • Gradio | [![Code](https://img.shields.io/badge/↗_View-1C1C1C?style=flat-square)](https://github.com/davidfertube/geo-insight-hse) |
 
 ---
 
