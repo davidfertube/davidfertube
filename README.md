@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=David+Fernandez;AI+Engineer;Contributor+LangGraph+%26+Pydantic" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=David+Fernandez;Applied+AI+Engineer;Contributor+LangGraph+%26+Pydantic" alt="Typing SVG" />
 
 ```
 01001000 01100101 01101100 01101100 01101111 00101100 00100000 01010111 01101111 01110010 01101100 01100100
@@ -39,7 +39,7 @@ class AIEngineer:
 | Business | Description | Action |
 |:---------|:------------|:------:|
 | **SpecVault** | AI-powered RAG for engineering teams—instant access to ASTM standards and steel specifications with cited answers in <2s | [![Try It](https://img.shields.io/badge/Try_It-00C853?style=for-the-badge&logo=rocket&logoColor=white)](https://specvault.app/) |
-| **Altaviz** | Predictive maintenance MLOps platform monitoring 10 compressor units across 4 Texas stations with real-time fleet health dashboards | [![Try It](https://img.shields.io/badge/Try_It-00C853?style=for-the-badge&logo=rocket&logoColor=white)](https://altaviz.app/) |
+| **Altaviz** | Predictive maintenance MLOps platform monitoring 10 compressor units across 4 Texas stations with real-time fleet health dashboards | [![Coming Soon](https://img.shields.io/badge/Coming_Soon-FFB300?style=for-the-badge&logo=clockify&logoColor=white)](https://altaviz.app/) |
 
 ---
 
@@ -50,15 +50,15 @@ experiments/
 ├── predictive-agent/    # LSTM-based RUL prediction for turbines
 ├── compliance-agent/    # NERC CIP compliance automation
 ├── anomaly-agent/       # Real-time turbine anomaly detection
-└── vision-ai-safety/    # VLM for HSE compliance (Qwen2-VL)
+└── vision-agent/        # VLM for HSE compliance (Qwen2-VL)
 ```
 
 | Experiment | Stack | Code |
 |:-----------|:------|:----:|
-| **Predictive Agent** | LSTM • Scikit-Learn • Plotly • Docker | [![Code](https://img.shields.io/badge/↗_View-1C1C1C?style=flat-square)](https://github.com/davidfertube/predictive-maintenance) |
+| **Predictive Agent** | LSTM • Scikit-Learn • Plotly • Docker | [![Code](https://img.shields.io/badge/↗_View-1C1C1C?style=flat-square)](https://github.com/davidfertube/predictive-agent) |
 | **Compliance Agent** | PydanticAI • DSPy • Mistral • FastAPI | [![Code](https://img.shields.io/badge/↗_View-1C1C1C?style=flat-square)](https://github.com/davidfertube/policy-guard) |
 | **Anomaly Agent** | Isolation Forest • Gradio • Time-Series | [![Code](https://img.shields.io/badge/↗_View-1C1C1C?style=flat-square)](https://github.com/davidfertube/iot-anomaly-agent) |
-| **Vision Agent** | Qwen2-VL • Transformers • Gradio | [![Code](https://img.shields.io/badge/↗_View-1C1C1C?style=flat-square)](https://github.com/davidfertube/geo-insight-hse) |
+| **Vision Agent** | Qwen2-VL • Transformers • Gradio | [![Code](https://img.shields.io/badge/↗_View-1C1C1C?style=flat-square)](https://github.com/davidfertube/vision-agent) |
 
 ---
 
@@ -109,19 +109,12 @@ experiments/
 
 <h2 align="center">Background</h2>
 
-<table width="100%">
-<thead>
+<table>
 <tr>
-<th align="center" width="50%">M.S. Artificial Intelligence</th>
-<th align="center" width="50%">Experience</th>
+<td align="center" width="33%"><h3>M.S. Artificial Intelligence</h3>University of Colorado Boulder<br>Expected 2027</td>
+<td align="center" width="34%"><h3>B.A. Marketing</h3>Lindenwood University<br>2017</td>
+<td align="center" width="33%"><h3>Experience</h3>5+ years production software<br>3+ years building AI systems</td>
 </tr>
-</thead>
-<tbody>
-<tr>
-<td align="center">University of Colorado Boulder (2027)</td>
-<td align="center">5+ years production software • 3+ years AI systems</td>
-</tr>
-</tbody>
 </table>
 
 <div align="center">
