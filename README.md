@@ -24,8 +24,7 @@ class AIEngineer:
     def __init__(self):
         self.focus = [
             "Agentic RAG & Multi-Agent Orchestration",
-            "Predictive Maintenance & Anomaly Detection",
-            "Regulatory Compliance Automation (NERC CIP)",
+            "Regulatory Compliance Automation",
             "Cloud-Native ML (Azure AI Foundry, GCP Vertex AI)"
         ]
 
