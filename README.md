@@ -63,12 +63,42 @@ experiments/
 └── vision-agent/        # VLM for HSE compliance (Qwen2-VL)
 ```
 
-| Experiment | Stack | Code | Demo |
-|:-----------|:------|:----:|:----:|
-| **Predictive Agent** | LSTM • Scikit-Learn • Plotly • Docker | [![Code](https://img.shields.io/badge/↗_View-1C1C1C?style=flat-square)](https://github.com/davidfertube/predictive-agent) | [![Demo](https://img.shields.io/badge/🤗_Demo-FFD21E?style=flat-square)](https://huggingface.co/spaces/davidfertube/predictive-agent) |
-| **Compliance Agent** | PydanticAI • DSPy • Mistral • FastAPI | [![Code](https://img.shields.io/badge/↗_View-1C1C1C?style=flat-square)](https://github.com/davidfertube/policy-guard) | [![Demo](https://img.shields.io/badge/🤗_Demo-FFD21E?style=flat-square)](https://huggingface.co/spaces/davidfertube/compliance-agent) |
-| **Anomaly Agent** | Isolation Forest • Gradio • Time-Series | [![Code](https://img.shields.io/badge/↗_View-1C1C1C?style=flat-square)](https://github.com/davidfertube/iot-anomaly-agent) | [![Demo](https://img.shields.io/badge/🤗_Demo-FFD21E?style=flat-square)](https://huggingface.co/spaces/davidfertube/anomaly-agent) |
-| **Vision Agent** | Qwen2-VL • Transformers • Gradio | [![Code](https://img.shields.io/badge/↗_View-1C1C1C?style=flat-square)](https://github.com/davidfertube/vision-agent) | [![Demo](https://img.shields.io/badge/🤗_Demo-FFD21E?style=flat-square)](https://huggingface.co/spaces/davidfertube/vision-agent) |
+<table width="100%">
+<thead>
+<tr>
+<th align="left" width="22%">Experiment</th>
+<th align="left" width="48%">Stack</th>
+<th align="center" width="15%">Code</th>
+<th align="center" width="15%">Demo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Predictive Agent</strong></td>
+<td>LSTM · Scikit-Learn · Plotly · Docker</td>
+<td align="center"><a href="https://github.com/davidfertube/predictive-agent"><img src="https://img.shields.io/badge/↗_View-1C1C1C?style=flat-square" alt="Code"></a></td>
+<td align="center"><a href="https://huggingface.co/spaces/davidfertube/predictive-agent"><img src="https://img.shields.io/badge/🤗_Demo-FFD21E?style=flat-square" alt="Demo"></a></td>
+</tr>
+<tr>
+<td><strong>Compliance Agent</strong></td>
+<td>PydanticAI · DSPy · Mistral · FastAPI</td>
+<td align="center"><a href="https://github.com/davidfertube/policy-guard"><img src="https://img.shields.io/badge/↗_View-1C1C1C?style=flat-square" alt="Code"></a></td>
+<td align="center"><a href="https://huggingface.co/spaces/davidfertube/compliance-agent"><img src="https://img.shields.io/badge/🤗_Demo-FFD21E?style=flat-square" alt="Demo"></a></td>
+</tr>
+<tr>
+<td><strong>Anomaly Agent</strong></td>
+<td>Isolation Forest · Gradio · Time-Series</td>
+<td align="center"><a href="https://github.com/davidfertube/iot-anomaly-agent"><img src="https://img.shields.io/badge/↗_View-1C1C1C?style=flat-square" alt="Code"></a></td>
+<td align="center"><a href="https://huggingface.co/spaces/davidfertube/anomaly-agent"><img src="https://img.shields.io/badge/🤗_Demo-FFD21E?style=flat-square" alt="Demo"></a></td>
+</tr>
+<tr>
+<td><strong>Vision Agent</strong></td>
+<td>Qwen2-VL · Transformers · Gradio</td>
+<td align="center"><a href="https://github.com/davidfertube/vision-agent"><img src="https://img.shields.io/badge/↗_View-1C1C1C?style=flat-square" alt="Code"></a></td>
+<td align="center"><a href="https://huggingface.co/spaces/davidfertube/vision-agent"><img src="https://img.shields.io/badge/🤗_Demo-FFD21E?style=flat-square" alt="Demo"></a></td>
+</tr>
+</tbody>
+</table>
 
 ---
 
@@ -119,10 +149,16 @@ experiments/
 
 <h2 align="center">Background</h2>
 
-<table>
+<table width="100%">
 <tr>
-<td align="center" width="50%"><h3>M.S. Artificial Intelligence</h3>University of Colorado Boulder — Expected 2027</td>
-<td align="center" width="50%"><h3>Experience</h3>5+ years production software · 3+ years building AI systems</td>
+<td align="center" width="50%">
+<h3>M.S. Artificial Intelligence</h3>
+<p>University of Colorado Boulder — Expected 2027</p>
+</td>
+<td align="center" width="50%">
+<h3>Experience</h3>
+<p>5+ years production software · 3+ years building AI systems</p>
+</td>
 </tr>
 </table>
 
