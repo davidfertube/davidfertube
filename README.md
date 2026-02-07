@@ -53,12 +53,12 @@ experiments/
 └── vision-agent/        # VLM for HSE compliance (Qwen2-VL)
 ```
 
-| Experiment | Stack | Code |
-|:-----------|:------|:----:|
-| **Predictive Agent** | LSTM • Scikit-Learn • Plotly • Docker | [![Code](https://img.shields.io/badge/↗_View-1C1C1C?style=flat-square)](https://github.com/davidfertube/predictive-agent) |
-| **Compliance Agent** | PydanticAI • DSPy • Mistral • FastAPI | [![Code](https://img.shields.io/badge/↗_View-1C1C1C?style=flat-square)](https://github.com/davidfertube/policy-guard) |
-| **Anomaly Agent** | Isolation Forest • Gradio • Time-Series | [![Code](https://img.shields.io/badge/↗_View-1C1C1C?style=flat-square)](https://github.com/davidfertube/iot-anomaly-agent) |
-| **Vision Agent** | Qwen2-VL • Transformers • Gradio | [![Code](https://img.shields.io/badge/↗_View-1C1C1C?style=flat-square)](https://github.com/davidfertube/vision-agent) |
+| Experiment | Stack | Code | Demo |
+|:-----------|:------|:----:|:----:|
+| **Predictive Agent** | LSTM • Scikit-Learn • Plotly • Docker | [![Code](https://img.shields.io/badge/↗_View-1C1C1C?style=flat-square)](https://github.com/davidfertube/predictive-agent) | [![Demo](https://img.shields.io/badge/🤗_Demo-FFD21E?style=flat-square)](https://huggingface.co/spaces/davidfertube/predictive-agent) |
+| **Compliance Agent** | PydanticAI • DSPy • Mistral • FastAPI | [![Code](https://img.shields.io/badge/↗_View-1C1C1C?style=flat-square)](https://github.com/davidfertube/policy-guard) | [![Demo](https://img.shields.io/badge/🤗_Demo-FFD21E?style=flat-square)](https://huggingface.co/spaces/davidfertube/compliance-agent) |
+| **Anomaly Agent** | Isolation Forest • Gradio • Time-Series | [![Code](https://img.shields.io/badge/↗_View-1C1C1C?style=flat-square)](https://github.com/davidfertube/iot-anomaly-agent) | [![Demo](https://img.shields.io/badge/🤗_Demo-FFD21E?style=flat-square)](https://huggingface.co/spaces/davidfertube/anomaly-agent) |
+| **Vision Agent** | Qwen2-VL • Transformers • Gradio | [![Code](https://img.shields.io/badge/↗_View-1C1C1C?style=flat-square)](https://github.com/davidfertube/vision-agent) | [![Demo](https://img.shields.io/badge/🤗_Demo-FFD21E?style=flat-square)](https://huggingface.co/spaces/davidfertube/vision-agent) |
 
 ---
 
