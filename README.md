@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=David+Fernandez;Applied+AI+Engineer;Contributor+LangGraph+%26+Pydantic" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=David+Fernandez;AI+Engineer;Contributor+to+LangGraph+%26+Pydantic" alt="Typing SVG" />
 
 ```
 01001000 01100101 01101100 01101100 01101111 00101100 00100000 01010111 01101111 01110010 01101100 01100100
@@ -13,9 +13,9 @@
 
 ---
 
-### `> Building Production AI Systems for Energy & Industrial Operations_`
+### `> AI Engineer | Energy Industry | Greater Houston_`
 
-Founding Engineer scaling AI from prototype to production. I architect **agentic RAG systems**, **predictive ML pipelines**, and **compliance automation** that run in enterprise environments.
+AI Engineer with 5 years of engineering and 3 years building production AI/ML systems. I architect **agentic RAG systems**, **predictive ML pipelines**, and **compliance automation** that run in enterprise environments.
 
 </div>
 
@@ -24,12 +24,12 @@ class AIEngineer:
     def __init__(self):
         self.focus = [
             "Agentic RAG & Multi-Agent Orchestration",
-            "Regulatory Compliance Automation",
-            "Cloud-Native ML (Azure AI Foundry, GCP Vertex AI)"
+            "Predictive Maintenance & Anomaly Detection",
+            "MLOps & Production ML Systems"
         ]
 
-    def deploy(self, agent) -> Production:
-        return agent.scale_to_enterprise()
+    def deploy(self, model) -> Production:
+        return model.notebook_to_production()
 ```
 
 ---
@@ -40,12 +40,12 @@ class AIEngineer:
 <tr>
 <td align="center" width="50%">
 <h3><a href="https://specvault.app/">SpecVault</a></h3>
-<p>AI-powered RAG system for querying steel specifications with traceable citations. Query NACE MR0175, ASTM, and API standards instantly with answers engineers can cite in compliance reports.</p>
+<p>Production RAG system with vector search and traceable citations. Retrieves precise answers from uploaded PDFs with [1] [2] source references pointing to exact documents and pages.</p>
 <code>Next.js 16 • React 19 • TypeScript • Supabase pgvector • Voyage AI • Groq • Vercel</code>
 </td>
 <td align="center" width="50%">
 <h3><a href="https://altaviz.app/">Altaviz</a></h3>
-<p>Production-ready MLOps platform monitoring 10 compressor units across 4 Texas stations. PySpark ETL pipelines process 50k+ sensor readings through a Bronze/Silver/Gold medallion architecture into real-time fleet health dashboards.</p>
+<p>Production MLOps platform processing 50k+ sensor readings through Bronze/Silver/Gold medallion architecture. PySpark ETL pipelines feed real-time fleet health dashboards with automated drift detection and retraining triggers.</p>
 <code>PySpark • Delta Lake • PostgreSQL • Streamlit • Plotly • Docker • Terraform</code>
 </td>
 </tr>
@@ -57,10 +57,10 @@ class AIEngineer:
 
 ```
 experiments/
-├── predictive-agent/    # LSTM-based RUL prediction for turbines
-├── compliance-agent/    # NERC CIP compliance automation
-├── anomaly-agent/       # Real-time turbine anomaly detection
-└── vision-agent/        # VLM for HSE compliance (Qwen2-VL)
+├── predictive-agent/    # LSTM time-series model for remaining useful life
+├── compliance-agent/    # Multi-agent RAG for regulatory compliance
+├── anomaly-agent/       # Streaming anomaly detection with root cause analysis
+└── vision-agent/        # VLM for structured scene understanding (Qwen2-VL)
 ```
 
 <table width="100%">
@@ -128,20 +128,20 @@ experiments/
 ```
 ┌────────────────────────────────────────────────────────────────────────────────────────────────────┐
 │  AI/ML                                                                                             │
-│  ├── LLMs: OpenAI, Claude, Gemini, Mistral                                                        │
+│  ├── Core: PyTorch, Scikit-Learn, LSTM, Isolation Forest, Time-Series                              │
 │  ├── Agents: LangGraph, AutoGen, CrewAI, PydanticAI                                               │
-│  ├── Vector DBs: Pinecone, ChromaDB, FAISS, Azure AI Search                                       │
-│  └── MLOps: MLflow, W&B, Model Monitoring                                                         │
+│  ├── RAG: pgvector, ChromaDB, Voyage AI, LlamaIndex                                               │
+│  └── MLOps: Model Monitoring, Drift Detection, A/B Testing, CI/CD                                 │
 ├────────────────────────────────────────────────────────────────────────────────────────────────────┤
 │  Infrastructure                                                                                    │
-│  ├── Cloud: Azure AI Foundry, GCP Vertex AI, AWS SageMaker                                        │
+│  ├── Cloud: Azure ML, GCP Vertex AI, AWS SageMaker                                                │
 │  ├── Containers: Docker, Kubernetes (AKS/GKE)                                                     │
 │  └── IaC: Terraform, GitHub Actions                                                               │
 ├────────────────────────────────────────────────────────────────────────────────────────────────────┤
-│  Domain                                                                                            │
-│  ├── Power: CCGT, Gas Turbines, SCADA/Historian                                                   │
-│  ├── Grid: ERCOT, ISO Markets, Dispatch Optimization                                              │
-│  └── Regulatory: NERC CIP, EPA Emissions, Safety Compliance                                       │
+│  Data & Pipelines                                                                                  │
+│  ├── Processing: Python, SQL, PySpark, PostgreSQL                                                  │
+│  ├── Serving: FastAPI, REST APIs, Streaming Pipelines                                              │
+│  └── Domain: SCADA/Sensor Data, Feature Engineering                                                │
 └────────────────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -157,13 +157,13 @@ experiments/
 </td>
 <td align="center" width="50%">
 <h3>Experience</h3>
-<p>5+ years production software · 3+ years building AI systems</p>
+<p>5 years engineering · 3 years production AI/ML systems</p>
 </td>
 </tr>
 </table>
 
 <div align="center">
 
-Started as a founding engineer scaling a startup from zero to production. Now I build AI that operators trust with million-dollar equipment decisions.
+From adaptive learning engines to real-time blockchain fraud detection to industrial predictive maintenance. I take models from notebooks to production.
 
 </div>
