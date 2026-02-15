@@ -39,7 +39,7 @@ class AIEngineer:
 <table>
 <tr>
 <td align="center" width="50%">
-<h3><a href="https://specvault.app/">SpecVault</a></h3>
+<h3><a href="https://steelagent.app/">SteelAgent</a></h3>
 <p>Production RAG system with vector search and traceable citations. Retrieves precise answers from uploaded PDFs with [1] [2] source references pointing to exact documents and pages.</p>
 <code>Next.js 16 • React 19 • TypeScript • Supabase pgvector • Voyage AI • Groq • Vercel</code>
 </td>
