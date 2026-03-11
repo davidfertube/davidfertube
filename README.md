@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=David+Fernandez;AI+Engineer;Contributor+to+LangGraph+%26+Pydantic" alt="Typing SVG" />
-
-```
-01001000 01100101 01101100 01101100 01101111 00101100 00100000 01010111 01101111 01110010 01101100 01100100
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=David+Fernandez;AI+Engineer;Building+AI+for+Energy" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-davidfernandez.dev-000?style=for-the-badge&logo=safari&logoColor=white)](https://davidfernandez.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidfertube/)
@@ -15,7 +11,7 @@
 
 ### `> AI Engineer | Energy Industry | Greater Houston_`
 
-AI Engineer with 5 years of engineering and 3 years building production AI/ML systems. I architect **agentic RAG systems**, **predictive ML pipelines**, and **compliance automation** that run in enterprise environments.
+AI Engineer with 5 years of experience building production AI/ML systems for the energy industry. I architect **agentic RAG systems**, **predictive ML pipelines**, and **compliance automation** that run in enterprise environments.
 
 </div>
 
@@ -39,9 +35,9 @@ class AIEngineer:
 <table>
 <tr>
 <td align="center" width="50%">
-<h3><a href="https://steelagent.app/">SteelAgent</a></h3>
-<p>Production RAG system with vector search and traceable citations. Retrieves precise answers from uploaded PDFs with [1] [2] source references pointing to exact documents and pages.</p>
-<code>Next.js 16 • React 19 • TypeScript • Supabase pgvector • Voyage AI • Groq • Vercel</code>
+<h3><a href="https://steelagent.vercel.app/">SteelAgent</a></h3>
+<p>AI-powered knowledge management platform for oil & gas engineers. 7-stage agentic RAG pipeline with human-in-the-loop review, verified citations, and zero hallucinations. Built for corrosion engineers working with ASTM, API, and NACE specifications.</p>
+<code>Next.js 16 • React 19 • TypeScript • Claude Sonnet • Supabase pgvector • Voyage AI • Vercel</code>
 </td>
 <td align="center" width="50%">
 <h3><a href="https://altaviz.app/">Altaviz</a></h3>
@@ -157,7 +153,7 @@ experiments/
 </td>
 <td align="center" width="50%">
 <h3>Experience</h3>
-<p>5 years engineering · 3 years production AI/ML systems</p>
+<p>5 years building production AI/ML systems</p>
 </td>
 </tr>
 </table>
