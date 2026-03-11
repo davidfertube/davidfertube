@@ -35,7 +35,7 @@ class AIEngineer:
 <table>
 <tr>
 <td align="center" width="50%">
-<h3><a href="https://steelagent.vercel.app/">SteelAgent</a></h3>
+<h3><a href="https://steelagent.ai/">SteelAgent</a></h3>
 <p>AI-powered knowledge management platform for oil & gas engineers. 7-stage agentic RAG pipeline with human-in-the-loop review, verified citations, and zero hallucinations. Built for corrosion engineers working with ASTM, API, and NACE specifications.</p>
 <code>Next.js 16 • React 19 • TypeScript • Claude Sonnet • Supabase pgvector • Voyage AI • Vercel</code>
 </td>
