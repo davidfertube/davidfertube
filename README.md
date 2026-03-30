@@ -41,15 +41,6 @@ AI-powered knowledge management platform for oil & gas engineers. 7-stage agenti
 
 ---
 
-### [Altaviz](https://altaviz.app/)
-Production MLOps platform processing 50k+ sensor readings through Bronze/Silver/Gold medallion architecture. PySpark ETL pipelines feed real-time fleet health dashboards with automated drift detection and retraining triggers.
-
-`PySpark` `Delta Lake` `PostgreSQL` `Streamlit` `Plotly` `Docker` `Terraform`
-
-</div>
-
----
-
 <h2 align="center">Experiments</h2>
 
 ```
