@@ -43,14 +43,6 @@ AI-powered knowledge management platform for oil & gas engineers. 7-stage agenti
 
 <h2 align="center">Experiments</h2>
 
-```
-experiments/
-├── predictive-agent/    # LSTM time-series model for remaining useful life
-├── compliance-agent/    # Multi-agent RAG for regulatory compliance
-├── anomaly-agent/       # Streaming anomaly detection with root cause analysis
-└── vision-agent/        # VLM for structured scene understanding (Qwen2-VL)
-```
-
 **Predictive Agent** — LSTM · Scikit-Learn · Plotly · Docker
 → [Code](https://github.com/davidfertube/predictive-agent) · [Demo](https://huggingface.co/spaces/davidfertube/predictive-agent)
 
