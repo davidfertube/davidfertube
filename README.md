@@ -21,7 +21,7 @@ class AIEngineer:
         self.focus = [
             "Agentic RAG & Multi-Agent Orchestration",
             "Predictive Maintenance & Anomaly Detection",
-            "MLOps & Production ML Systems"
+            "MLOps & Production ML Systems on Azure"
         ]
 
     def deploy(self, model) -> Production:
