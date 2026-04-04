@@ -77,21 +77,25 @@ AI-powered knowledge management platform for oil & gas engineers. 7-stage agenti
 
 <h2 align="center">Technical Stack</h2>
 
+<div align="center">
+
 **AI/ML**
-- Core: PyTorch · Scikit-Learn · LSTM · Isolation Forest · Time-Series
-- Agents: LangGraph · AutoGen · CrewAI · PydanticAI
-- RAG: pgvector · ChromaDB · Voyage AI · LlamaIndex
-- MLOps: Model Monitoring · Drift Detection · A/B Testing · CI/CD
+Core: PyTorch · Scikit-Learn · LSTM · Isolation Forest · Time-Series
+Agents: LangGraph · AutoGen · CrewAI · PydanticAI
+RAG: pgvector · ChromaDB · Voyage AI · LlamaIndex
+MLOps: Model Monitoring · Drift Detection · A/B Testing · CI/CD
 
 **Infrastructure**
-- Cloud: Azure ML · GCP Vertex AI · AWS SageMaker
-- Containers: Docker · Kubernetes (AKS/GKE)
-- IaC: Terraform · GitHub Actions
+Cloud: Azure ML · GCP Vertex AI · AWS SageMaker
+Containers: Docker · Kubernetes (AKS/GKE)
+IaC: Terraform · GitHub Actions
 
 **Data & Pipelines**
-- Processing: Python · SQL · PySpark · PostgreSQL
-- Serving: FastAPI · REST APIs · Streaming Pipelines
-- Domain: SCADA/Sensor Data · Feature Engineering
+Processing: Python · SQL · PySpark · PostgreSQL
+Serving: FastAPI · REST APIs · Streaming Pipelines
+Domain: SCADA/Sensor Data · Feature Engineering
+
+</div>
 
 ---
 
