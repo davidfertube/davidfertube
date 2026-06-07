@@ -8,7 +8,7 @@
 
 ### `> AI Engineer | Energy Industry | Greater Houston_`
 
-AI Engineer with 5 years of experience building production AI/ML systems for the energy industry. I architect **agentic RAG systems**, **predictive ML pipelines**, and **compliance automation** that run in enterprise environments.
+AI Engineer at **Archrock** with 5 years of experience building production AI/ML systems for the energy industry. I architect **agentic RAG systems**, **predictive ML pipelines**, and **compliance automation** that run in enterprise environments.
 
 </div>
 
@@ -95,6 +95,11 @@ Processing: Python · SQL · PySpark · PostgreSQL
 Serving: FastAPI · REST APIs · Streaming Pipelines
 Domain: SCADA/Sensor Data · Feature Engineering
 
+**Microsoft AI & Data Platform**
+Data: Microsoft Fabric · Power BI
+Automation: Power Automate · Copilot Studio
+Azure AI: Azure AI Foundry · Azure AI Toolkit
+
 </div>
 
 ---
@@ -102,8 +107,6 @@ Domain: SCADA/Sensor Data · Feature Engineering
 <h2 align="center">Background</h2>
 
 <div align="center">
-
-**M.S. Artificial Intelligence** — University of Colorado Boulder · Expected 2027
 
 5 years building production AI/ML systems
 
