@@ -4,7 +4,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-davidfernandez.dev-000?style=for-the-badge&logo=safari&logoColor=white)](https://davidfernandez.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-davidfertube-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/davidfertube)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-davidfertube-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/davidfertube)
 [![Email](https://img.shields.io/badge/Email-Reach%20out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidfertube@gmail.com)
 
 ---
@@ -49,16 +48,13 @@ A production **agentic-RAG platform** for querying dense technical standards & s
 <h2 align="center">Experiments</h2>
 
 **Predictive Agent** — LSTM · Scikit-Learn · Plotly · Docker
-→ [Code](https://github.com/davidfertube/predictive-agent) · [Demo](https://huggingface.co/spaces/davidfertube/predictive-agent)
+→ [Code](https://github.com/davidfertube/predictive-agent)
 
-**Compliance Agent** — PydanticAI · DSPy · Mistral · FastAPI
-→ [Code](https://github.com/davidfertube/policy-guard) · [Demo](https://huggingface.co/spaces/davidfertube/compliance-agent)
+**Anomaly Agent** — Isolation Forest · Time-Series · Real-Time Pipelines
+→ [Code](https://github.com/davidfertube/iot-anomaly-agent)
 
-**Anomaly Agent** — Isolation Forest · Gradio · Time-Series
-→ [Code](https://github.com/davidfertube/iot-anomaly-agent) · [Demo](https://huggingface.co/spaces/davidfertube/anomaly-agent)
-
-**Vision Agent** — Qwen2-VL · Transformers · Gradio
-→ [Code](https://github.com/davidfertube/vision-agent) · [Demo](https://huggingface.co/spaces/davidfertube/vision-agent)
+**Vision Agent** — Qwen2-VL · Transformers · Multimodal
+→ [Code](https://github.com/davidfertube/vision-agent)
 
 ---
 
@@ -123,14 +119,7 @@ From adaptive learning engines in **edtech**, to real-time fraud & anomaly detec
 
 ---
 
-<h2 align="center">GitHub</h2>
-
 <div align="center">
-
-<img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=davidfertube&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e" />
-<img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidfertube&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8b949e" />
-
-<br/><br/>
 
 <i>Open to AI Engineer / AI Solutions Engineer roles — across any industry.</i>
 
