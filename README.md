@@ -10,7 +10,7 @@
 
 ### `> AI Engineer & AI Solutions Engineer | Greater Houston_`
 
-I build and ship **production-grade AI systems** for enterprise clients — turning ambiguous business requirements into deployed solutions with measurable ROI. Currently an **AI Engineer at Archrock**, with 5+ years delivering **agentic RAG**, **multi-agent orchestration**, **predictive ML**, and **conversational AI** across **energy, fintech, and edtech**.
+**AI Engineer at Archrock**, building enterprise AI on the Microsoft platform — Fabric Data Agents, Copilot Studio, Azure AI Foundry, and Power Platform. I specialize in **GenAI, Agentic RAG, and Multi-Agent Orchestration** (Core LangGraph Contributor), shipping production systems with Python, FastAPI, and cloud-native infrastructure — delivering across **energy, fintech, and edtech**.
 
 </div>
 
@@ -45,20 +45,11 @@ A production **agentic-RAG platform** for querying dense technical standards & s
 
 ---
 
-<h2 align="center">Experiments</h2>
-
-**Predictive Agent** — LSTM · Scikit-Learn · Plotly · Docker
-→ [Code](https://github.com/davidfertube/predictive-agent)
-
-**Anomaly Agent** — Isolation Forest · Time-Series · Real-Time Pipelines
-→ [Code](https://github.com/davidfertube/iot-anomaly-agent)
-
-**Vision Agent** — Qwen2-VL · Transformers · Multimodal
-→ [Code](https://github.com/davidfertube/vision-agent)
-
----
-
 <h2 align="center">Open Source Contributions</h2>
+
+<div align="center">
+<table>
+<tr><td>
 
 ```diff
 + LangGraph    → Refactored FunctionMessage patterns, Enhanced fine-tuning docs
@@ -67,6 +58,10 @@ A production **agentic-RAG platform** for querying dense technical standards & s
 + CrewAI       → URL validation for Azure Gateways
 + Transformers → Documentation improvements
 ```
+
+</td></tr>
+</table>
+</div>
 
 <div align="center">
 
