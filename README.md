@@ -8,7 +8,7 @@
 
 ---
 
-### `> AI Engineer & AI Solutions Engineer | Greater Houston_`
+### `> AI Engineer | Greater Houston_`
 
 **AI Engineer at Archrock**, building enterprise AI on the Microsoft platform — Fabric Data Agents, Copilot Studio, Azure AI Foundry, and Power Platform. I specialize in **GenAI, Agentic RAG, and Multi-Agent Orchestration** (Core LangGraph Contributor), shipping production systems with Python, FastAPI, and cloud-native infrastructure — delivering across **energy, fintech, and edtech**.
 
