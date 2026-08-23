@@ -24,7 +24,7 @@ class AIEngineer:
             "Predictive ML and anomaly detection on real time data",
             "MLOps and production systems on Azure / AWS",
         ]
-        self.industries = ["Energy", "FinTech", "EdTech", "...your domain next"]
+        self.industries = ["Energy", "Geothermal", "FinTech", "EdTech"]
 
     def deploy(self, idea) -> Production:
         return idea.prototype().evaluate().harden().ship()
@@ -116,6 +116,6 @@ From adaptive learning engines in **edtech**, to real time fraud and anomaly det
 
 <div align="center">
 
-<i>Open to AI Engineer / AI Solutions Engineer roles, across any industry.</i>
+<i>AI Engineer at Archrock, building Geothermal Agent alongside it.</i>
 
 </div>
