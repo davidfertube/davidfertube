@@ -10,7 +10,7 @@
 
 ### `> AI Engineer | Greater Houston_`
 
-**AI Engineer at Archrock**, building enterprise AI on the Microsoft platform — Fabric Data Agents, Copilot Studio, Azure AI Foundry, and Power Platform. I specialize in **GenAI, Agentic RAG, and Multi-Agent Orchestration** (Core LangGraph Contributor), shipping production systems with Python, FastAPI, and cloud-native infrastructure — delivering across **energy, fintech, and edtech**.
+**AI Engineer at Archrock**, building enterprise AI on the Microsoft platform: Fabric Data Agents, Copilot Studio, Azure AI Foundry, and Power Platform. I specialize in **GenAI, Agentic RAG, and Multi Agent Orchestration** (Core LangGraph Contributor), shipping production systems with Python, FastAPI, and cloud native infrastructure, delivered across **energy, fintech, and edtech**.
 
 </div>
 
@@ -19,10 +19,10 @@ class AIEngineer:
     def __init__(self):
         self.titles = ["AI Engineer", "AI Solutions Engineer"]
         self.focus = [
-            "GenAI · Agentic RAG · Multi-Agent Orchestration",
-            "LLM apps with evals & guardrails (RAGAS, DeepEval)",
-            "Predictive ML & anomaly detection on real-time data",
-            "MLOps & production systems on Azure / AWS",
+            "GenAI · Agentic RAG · Multi Agent Orchestration",
+            "LLM apps with evals and guardrails (RAGAS, DeepEval)",
+            "Predictive ML and anomaly detection on real time data",
+            "MLOps and production systems on Azure / AWS",
         ]
         self.industries = ["Energy", "FinTech", "EdTech", "...your domain next"]
 
@@ -36,10 +36,10 @@ class AIEngineer:
 
 <div align="center">
 
-### [SteelAgent](https://steelagent.ai/)
-A production **agentic-RAG platform** for querying dense technical standards & specifications — a 7-stage pipeline with human-in-the-loop review, verified citations, and hallucination guardrails. The architecture (semantic retrieval → confidence gating → source-grounded answers) generalizes to **any compliance- or document-heavy domain**.
+### [Geothermal Agent](https://geoagent.energy)
+**The agent powered intelligence platform for geothermal energy.** Ask what survives your brine and get the answer cited to the page: casing alloys, brine chemistry, silica and calcite scaling, well integrity. Three agents ship today, covering cited questions, corrosion management programs, and casing survey analysis. Every claim is checked against the page it cites, and the agent refuses when the corpus cannot back an answer.
 
-`Next.js 16` `React 19` `TypeScript` `Claude Sonnet` `Supabase pgvector` `Voyage AI` `Vercel`
+`Next.js 16` `React 19` `TypeScript` `Claude` `Supabase pgvector` `Voyage AI` `Vercel`
 
 </div>
 
@@ -52,7 +52,7 @@ A production **agentic-RAG platform** for querying dense technical standards & s
 <tr><td>
 
 ```diff
-+ LangGraph    → Refactored FunctionMessage patterns, Enhanced fine-tuning docs
++ LangGraph    → Refactored FunctionMessage patterns, Enhanced fine tuning docs
 + Pydantic     → Core library contributions
 + AutoGen      → Fixed Azure AI Client streaming stability
 + CrewAI       → URL validation for Azure Gateways
@@ -80,15 +80,15 @@ A production **agentic-RAG platform** for querying dense technical standards & s
 
 **GenAI & Agents**
 LangGraph · AutoGen · CrewAI · PydanticAI · DSPy · MCP
-Agentic RAG · Multi-Agent Orchestration · Tool-Calling · HITL Workflows
+Agentic RAG · Multi Agent Orchestration · Tool Calling · HITL Workflows
 Evals & Guardrails: RAGAS · DeepEval · Langfuse · Hallucination Detection
 
 **LLM & Retrieval**
-Azure OpenAI · Anthropic Claude · Embeddings · Reranking · Fine-Tuning (LoRA)
+Azure OpenAI · Anthropic Claude · Embeddings · Reranking · Fine Tuning (LoRA)
 Vector Stores: pgvector · Pinecone · FAISS · ChromaDB · Voyage AI · LlamaIndex
 
 **Machine Learning**
-PyTorch · Scikit-Learn · Time-Series · Anomaly Detection · Predictive Modeling
+PyTorch · Scikit-Learn · Time Series · Anomaly Detection · Predictive Modeling
 MLOps: MLflow · Model Monitoring · Drift Detection · A/B Testing · CI/CD
 
 **Microsoft AI & Data Platform**
@@ -108,7 +108,7 @@ Cloud: Azure · AWS · GCP · Docker · Kubernetes (AKS/GKE) · Terraform · Git
 
 **5+ years taking AI from notebooks to production.**
 
-From adaptive learning engines in **edtech**, to real-time fraud & anomaly detection in **fintech/blockchain**, to enterprise agentic AI and predictive systems in **energy** — I deliver across domains, not just one. Whatever the industry, the job is the same: ship reliable AI that moves a real metric.
+From adaptive learning engines in **edtech**, to real time fraud and anomaly detection in **fintech/blockchain**, to enterprise agentic AI and predictive systems in **energy**, I deliver across domains, not just one. Whatever the industry, the job is the same: ship reliable AI that moves a real metric.
 
 </div>
 
@@ -116,6 +116,6 @@ From adaptive learning engines in **edtech**, to real-time fraud & anomaly detec
 
 <div align="center">
 
-<i>Open to AI Engineer / AI Solutions Engineer roles — across any industry.</i>
+<i>Open to AI Engineer / AI Solutions Engineer roles, across any industry.</i>
 
 </div>
