@@ -103,11 +103,3 @@ class AIEngineer:
 From adaptive learning engines in **edtech**, to real time fraud and anomaly detection in **fintech/blockchain**, to enterprise agentic AI and predictive systems in **energy**, I deliver across domains, not just one. Whatever the industry, the job is the same: ship reliable AI that moves a real metric.
 
 </div>
-
----
-
-<div align="center">
-
-<i>AI Engineer at Archrock, building Geothermal Agent alongside it.</i>
-
-</div>
