@@ -10,7 +10,7 @@
 
 ### `> AI Engineer | Greater Houston_`
 
-**AI Engineer at Archrock**, building enterprise AI on the Microsoft platform: Fabric Data Agents, Copilot Studio, Azure AI Foundry, and Power Platform. I specialize in **GenAI, Agentic RAG, and Multi Agent Orchestration** (Core LangGraph Contributor), shipping production systems with Python, FastAPI, and cloud native infrastructure, delivered across **energy, fintech, and edtech**.
+**AI Engineer at Archrock**, building enterprise AI **end to end on the Microsoft AI platform**: Fabric and OneLake for the data layer, Azure AI Foundry for models and agents, Copilot Studio for the conversational surface in Teams, and Power BI and Power Apps where the work reaches the business. I specialize in **GenAI, Agentic RAG, and Multi Agent Orchestration** (Core LangGraph Contributor), shipping production systems with Python, FastAPI, and Azure infrastructure, delivered across **energy, fintech, and edtech**.
 
 </div>
 
@@ -19,6 +19,7 @@ class AIEngineer:
     def __init__(self):
         self.titles = ["AI Engineer", "AI Solutions Engineer"]
         self.focus = [
+            "Microsoft AI platform end to end: Fabric, Foundry, Copilot Studio, Power Platform",
             "GenAI · Agentic RAG · Multi Agent Orchestration",
             "LLM apps with evals and guardrails (RAGAS, DeepEval)",
             "Predictive ML and anomaly detection on real time data",
@@ -78,6 +79,21 @@ class AIEngineer:
 
 <div align="center">
 
+### Microsoft AI Platform, End To End
+
+| Layer | Built With |
+|:------|:-----------|
+| **Data** | Microsoft Fabric · OneLake · Lakehouse · PySpark notebooks · Delta tables |
+| **Models** | Azure AI Foundry · Azure OpenAI · Foundry Agent Service (SharePoint grounding) |
+| **Agents** | Copilot Studio in Teams · agent flows in Power Automate · Semantic Kernel |
+| **Apps** | Power Apps · Power Automate · Microsoft Teams |
+| **Analytics** | Power BI · Fabric Data Agents · SQL analytics endpoint |
+| **Platform** | Azure ML · Entra ID · Azure Container Apps · GitHub Actions |
+
+</div>
+
+<div align="center">
+
 **GenAI & Agents**
 LangGraph · AutoGen · CrewAI · PydanticAI · DSPy · MCP
 Agentic RAG · Multi Agent Orchestration · Tool Calling · HITL Workflows
@@ -91,12 +107,9 @@ Vector Stores: pgvector · Pinecone · FAISS · ChromaDB · Voyage AI · LlamaIn
 PyTorch · Scikit-Learn · Time Series · Anomaly Detection · Predictive Modeling
 MLOps: MLflow · Model Monitoring · Drift Detection · A/B Testing · CI/CD
 
-**Microsoft AI & Data Platform**
-Azure AI Foundry · Copilot Studio · Fabric Data Agents · Power Platform (BI · Apps · Automate)
-
 **Engineering & Infrastructure**
 Python · TypeScript · FastAPI · React/Next.js · SQL · PostgreSQL · PySpark
-Cloud: Azure · AWS · GCP · Docker · Kubernetes (AKS/GKE) · Terraform · GitHub Actions
+Cloud: Azure · Docker · Kubernetes (AKS) · Terraform · GitHub Actions
 
 </div>
 
