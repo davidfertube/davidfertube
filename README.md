@@ -92,27 +92,6 @@ class AIEngineer:
 
 </div>
 
-<div align="center">
-
-**GenAI & Agents**
-LangGraph · AutoGen · CrewAI · PydanticAI · DSPy · MCP
-Agentic RAG · Multi Agent Orchestration · Tool Calling · HITL Workflows
-Evals & Guardrails: RAGAS · DeepEval · Langfuse · Hallucination Detection
-
-**LLM & Retrieval**
-Azure OpenAI · Anthropic Claude · Embeddings · Reranking · Fine Tuning (LoRA)
-Vector Stores: pgvector · Pinecone · FAISS · ChromaDB · Voyage AI · LlamaIndex
-
-**Machine Learning**
-PyTorch · Scikit-Learn · Time Series · Anomaly Detection · Predictive Modeling
-MLOps: MLflow · Model Monitoring · Drift Detection · A/B Testing · CI/CD
-
-**Engineering & Infrastructure**
-Python · TypeScript · FastAPI · React/Next.js · SQL · PostgreSQL · PySpark
-Cloud: Azure · Docker · Kubernetes (AKS) · Terraform · GitHub Actions
-
-</div>
-
 ---
 
 <h2 align="center">Background</h2>
