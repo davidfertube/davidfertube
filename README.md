@@ -20,10 +20,10 @@ class AIEngineer:
         self.titles = ["AI Engineer", "AI Solutions Engineer"]
         self.focus = [
             "Microsoft AI platform end to end: Fabric, Foundry, Copilot Studio, Power Platform",
-            "GenAI · Agentic RAG · Multi Agent Orchestration",
-            "LLM apps with evals and guardrails (RAGAS, DeepEval)",
+            "GenAI · Agentic RAG · Multi Agent Orchestration (LangGraph and LangSmith)",
+            "LLM apps with evals, guardrails",
             "Predictive ML and anomaly detection on real time data",
-            "MLOps and production systems on Azure / AWS",
+            "MLOps and production systems on Azure",
         ]
         self.industries = ["Energy", "Geothermal", "FinTech"]
 
