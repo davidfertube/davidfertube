@@ -17,7 +17,7 @@
 ```python
 class AIEngineer:
     def __init__(self):
-        self.titles = ["AI Engineer", "AI Solutions Engineer"]
+        self.titles = ["AI Engineer"]
         self.focus = [
             "Microsoft AI platform end to end: Fabric, Foundry, Copilot Studio, Power Platform",
             "GenAI · Agentic RAG · Multi Agent Orchestration (LangGraph and LangSmith)",
