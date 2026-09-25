@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=David+Fernandez;AI+Engineer+%26+AI+Solutions+Engineer;From+PoC+to+Production;Agentic+AI%2C+shipped+across+industries" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=David+Fernandez;AI+Engineer;From+PoC+to+Production;Agentic+AI%2C+shipped+across+industries" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-davidfernandez.dev-000?style=for-the-badge&logo=safari&logoColor=white)](https://davidfernandez.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-davidfertube-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/davidfertube)
