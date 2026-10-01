@@ -53,7 +53,7 @@ class AIEngineer:
 <tr><td>
 
 ```diff
-+ LangGraph    → Refactored FunctionMessage patterns, Enhanced fine tuning docs
++ LangGraph    → Refactored FunctionMessage patterns
 + Pydantic     → Core library contributions
 + AutoGen      → Fixed Azure AI Client streaming stability
 + CrewAI       → URL validation for Azure Gateways
