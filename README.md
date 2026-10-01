@@ -25,7 +25,7 @@ class AIEngineer:
             "Predictive ML and anomaly detection on real time data",
             "MLOps and production systems on Azure",
         ]
-        self.industries = ["Energy", "Geothermal", "FinTech"]
+        self.industries = ["Energy", "FinTech"]
 
     def deploy(self, idea) -> Production:
         return idea.prototype().evaluate().harden().ship()
